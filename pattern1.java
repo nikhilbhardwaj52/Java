@@ -1,3 +1,6 @@
+
+// hollow rectangle
+
 public class pattern1 {
 
     
